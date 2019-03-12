@@ -1,0 +1,6 @@
+com\sun\abstractfactory\FactoryAsus.class
+com\sun\abstractfactory\FactoryLenovo.class
+com\sun\abstractfactory\IFactory.class
+com\sun\abstractfactory\ComputerFactory.class
+com\sun\abstractfactory\AbstractFactory.class
+com\sun\abstractfactory\AbstractFactoryTest.class
